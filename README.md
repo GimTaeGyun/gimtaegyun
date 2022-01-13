@@ -9,7 +9,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Python-FC4C02?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
