@@ -1,9 +1,4 @@
 # Back-End Engineer
-## _The Last Markdown Editor, Ever_
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">                                                 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/GimTaeGyun)               
@@ -12,45 +7,28 @@
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1cQbJYY9WoKqxUBjVhLb9c4XzC2OwKOSb/view?usp=sharing)](https://drive.google.com/file/d/1cQbJYY9WoKqxUBjVhLb9c4XzC2OwKOSb/view?usp=sharing)
 <hr>
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+기술 스택 Java, Linux, MariaDB 주특기인 백엔드 개발자입니다.
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
-## Features
-
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
-
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+- Java
+ ㄴ Thread, JDBC, SpringBoot, List, Map, Parsing, DataFormat 
+- Linux
+ ㄴ shell, exp 스크립트 작성, crond, 서비스 관리
+ ㄴ CMD : ps, top, df, ls, vi, sed, netstat 등 
+- MariaDB
+ ㄴ explain , indexing, table 설계, table, column 네이밍, view, trigger 등  
 
 ## Tech
 
 Dillinger uses a number of open source projects to work properly:
+
+- [JAVA] - Thread, JDBC, SpringBoot, List, Map, Parsing, DataFormat
+- [Linux] - Shell, exp 스크립트 작성, crond, 서비스 관리
+          - CMD : ps, top, df, ls, vi, sed, netstat 등 
+- [MariaDB] - explain , indexing, table 설계, table, column 네이밍, view, trigger 등 
 
 - [AngularJS] - HTML enhanced for web apps!
 - [Ace Editor] - awesome web-based text editor
