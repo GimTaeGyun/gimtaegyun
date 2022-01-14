@@ -1,7 +1,7 @@
 # Back-End Engineer
 
 ### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">                                                 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/GimTaeGyun)               
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GimTaeGyun)](https://github.com/GimTaeGyun)               
 [![Tech Blog Badge](http://img.shields.io/badge/-Github%20blog-000000?style=flat-square&logo=github&link=https://gimtaegyun.github.io/)](https://gimtaegyun.github.io/)  
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://back.tistory.com/)
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1cQbJYY9WoKqxUBjVhLb9c4XzC2OwKOSb/view?usp=sharing)](https://drive.google.com/file/d/1cQbJYY9WoKqxUBjVhLb9c4XzC2OwKOSb/view?usp=sharing)
