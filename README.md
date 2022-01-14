@@ -5,9 +5,11 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-[![gtgg Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://back.tistory.com/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://gimtaegyun.github.io/)](https://gimtaegyun.github.io/)  [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)](https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)
+### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">                                                 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/GimTaeGyun)               
+[![Tech Blog Badge](http://img.shields.io/badge/-Github%20blog-000000?style=flat-square&logo=github&link=https://gimtaegyun.github.io/)](https://gimtaegyun.github.io/)  
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://back.tistory.com/)
+[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)](https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)
 <hr>
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
