@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GimTaeGyun)](https://github.com/GimTaeGyun)               
 [![Tech Blog Badge](http://img.shields.io/badge/-Github%20blog-000000?style=flat-square&logo=github&link=https://gimtaegyun.github.io/)](https://gimtaegyun.github.io/)  
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://back.tistory.com/)
-[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1cQbJYY9WoKqxUBjVhLb9c4XzC2OwKOSb/view?usp=sharing)](https://docs.google.com/presentation/d/12-miQrjOuErzGeq8hpjkbjF8NPHHBQydHK4rokTR2OY/edit?usp=sharing)
+[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1ZYxx7BAd3FNoy1q6PqCGFkDR0f7GUCol/view?usp=sharing)](https://drive.google.com/file/d/1ZYxx7BAd3FNoy1q6PqCGFkDR0f7GUCol/view?usp=sharing)
 <hr>
 
 
